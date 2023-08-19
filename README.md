@@ -63,6 +63,7 @@ namespace EngineeringAdmission
 ```
 
 ## Output:
+![image](https://github.com/TejaswiniGugananthan/Eligibility-for-Admission/assets/121222763/2b7fe28e-8489-4911-ade0-82fd93d27e12)
 
 
 
