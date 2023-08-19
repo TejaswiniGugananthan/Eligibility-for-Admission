@@ -19,6 +19,7 @@ Step 6 : Using Nested if loop check whether the student is eligible or not eligi
 Step 7 : Print the result.
 ## Program:
 Name: G.TEJASWINI
+
 Reg no: 212222230157
 ```c#
 using System;
